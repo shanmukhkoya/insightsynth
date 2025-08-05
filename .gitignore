@@ -5,5 +5,4 @@ outputs/
 .env
 *.eml
 *.pdf
-*.md
 *.txt
