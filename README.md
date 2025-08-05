@@ -1,5 +1,3 @@
-Absolutely! Below is a detailed and professional `README.md` tailored to your current project — **InsightSynth** — based on everything you’ve built and discussed so far. It’s structured for GitHub, explains the **what, why, and how**, and is great for portfolio value.
-
 ---
 ```markdown
 # 🧠 InsightSynth — Lightweight GenAI Email Insight Extractor
