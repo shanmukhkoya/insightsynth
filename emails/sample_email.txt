@@ -1,0 +1,12 @@
+Subject: AI Weekly Update
+From: aiupdate@example.com
+Date: Mon, 5 Aug 2025 12:34:56 +0000
+
+Hello Team,
+
+Here are this week's AI updates:
+- OpenAI released a new model.
+- HuggingFace added Whisper-ASR to Transformers.
+
+Regards,
+AI Team

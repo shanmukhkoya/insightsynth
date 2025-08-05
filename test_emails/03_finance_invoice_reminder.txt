@@ -1,0 +1,11 @@
+Subject: Pending Invoice Reminder - INV/2025/0198
+From: billing@vendor.com
+Date: Sun, 3 Aug 2025 11:45:00 +0000
+
+Dear Customer,
+
+This is a gentle reminder that invoice INV/2025/0198 amounting to ₹75,000 is still unpaid. Kindly settle the dues by August 7th to avoid late fees.
+
+Regards,
+Finance Department
+ABC Services Pvt Ltd

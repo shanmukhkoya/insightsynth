@@ -1,0 +1,13 @@
+Subject: AI Weekly Update
+From: aiupdate@openaiweekly.com
+Date: Tue, 5 Aug 2025 09:30:00 +0000
+
+Hello Team,
+
+Here are the top AI highlights for this week:
+
+- OpenAI introduced a new model called “Turing” optimized for NLP and vision.
+- HuggingFace integrated Whisper-ASR into their Transformer-based pipeline.
+
+Stay curious,  
+AI Team

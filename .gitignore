@@ -3,6 +3,9 @@ __pycache__/
 *.log
 outputs/
 .env
-*.eml
-*.pdf
-*.txt
+
+venv/
+.venv/
+chroma_store/
+*.DS_Store
+*.pyc
