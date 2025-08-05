@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.log
+outputs/
+.env
+*.eml
+*.pdf
+*.md
+*.txt

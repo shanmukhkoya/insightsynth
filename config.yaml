@@ -1,0 +1,8 @@
+input_type: "txt"  # or "eml"
+input_path: "test_emails/"
+
+save_output:
+  markdown: true
+  pdf: true
+
+ollama_model: "phi3"
