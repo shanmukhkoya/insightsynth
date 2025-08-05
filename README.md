@@ -1,8 +1,8 @@
----
-```markdown
 # 🧠 InsightSynth — Lightweight GenAI Email Insight Extractor
 
-**InsightSynth** is a zero-cost, fully local, GenAI-powered application that extracts structured insights (summary, action items, categories) from email text files. It is designed to work in **isolated environments**, using **open-source LLMs like TinyLlama and Phi-3** via Ollama. The app supports both single-file and batch processing, and outputs insights in both **Markdown and PDF formats**.
+**InsightSynth** is a zero-cost, fully local, GenAI-powered application that extracts structured insights (summary, action items, categories) 
+from email text files. It is designed to work in **isolated environments**, using **open-source LLMs like TinyLlama and Phi-3** via Ollama. 
+The app supports both single-file and batch processing, and outputs insights in both **Markdown and PDF formats**.
 
 ---
 
@@ -12,11 +12,7 @@
 - 📁 **Batch mode**: Process multiple `.txt` or `.eml` files from a directory
 - 📄 **Markdown and PDF Reports**: Clean and shareable summaries
 - 🧾 **Metadata Parsing**: Extracts `From`, `Date`, and `Subject` from email headers
-- 🧱 **Modular Architecture** for extensibility (RAG, DB, cloud/email integrations)
-- 🔒 **Offline-first**: No external API calls or internet dependency
-
----
-
+- 🧱 **Modular Architecture** 
 ## 📂 Directory Structure
 
 ```
